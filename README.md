@@ -6,3 +6,45 @@
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
+
+
+
+2 [Configuration parameters](#Configuration-parameters)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Configuration parameters

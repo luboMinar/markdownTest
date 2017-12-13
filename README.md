@@ -11,46 +11,6 @@
 
 
 2 [Configuration parameters](#Configuration-parameters)
-.
-.
-..
-.
-.
-.
-..
-.
-..
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-
-
-
 
 
 
